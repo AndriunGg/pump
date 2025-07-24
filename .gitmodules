@@ -1,0 +1,6 @@
+[submodule "pump-backend"]
+	path = pump-backend
+	url = git@github.com:AndriunGg/pump-backend.git
+[submodule "pump-frontend"]
+	path = pump-frontend
+	url = git@github.com:AndriunGg/pump-frontend.git
